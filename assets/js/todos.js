@@ -24,3 +24,5 @@ $("input[type='text']").keypress(function(event){
 $(".fa-tasks").click(function(){
     $("input[type='text']").fadeToggle();
 })
+
+//add a Database
